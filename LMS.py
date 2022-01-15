@@ -86,7 +86,7 @@ while True:
         library.display_books()
     elif user_choice == 2:
         book = input(
-            "Enter the name of the book which the user wants to lend : ").lower().strip()
+            "Enter the name of the book which the user wants to borrow : ").lower().strip()
         user = input(
             "Enter the name of the person who wants to lend the book : ").lower().strip()
         library.lend_book(user, book)
