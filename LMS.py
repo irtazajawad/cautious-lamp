@@ -1,7 +1,7 @@
 """
 For anyone working on this project, the code's very messy and not documented well. It's broken at various parts
-and I've used some crapy ways to make it work, still, it dosen't work as you'd expect an LMS to work. if you can just document it
-or give opinion as comments(python one's) it'd be appreciated. AND if your working locally and not on cloud- name the files as 
+and I've used some crappy ways to make it work, still, it dosen't work as you would expect an LMS to work. if you can just document it
+or give opinion as comments it'd be appreciated. AND if your working locally and not on cloud- name the files as 
 they are named here and keep all the files in the same folder or code will get fucked up, THANKS. 
 """
 
